@@ -1,4 +1,4 @@
-# 🌐 Googlometer
+# 🌐 Am-I-Googled
 
 **Wie tief steckst du im Google-Ökosystem?**
 
